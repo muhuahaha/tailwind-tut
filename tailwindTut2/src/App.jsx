@@ -9,7 +9,7 @@ import NotFoundPage from './pages/NotFound';
 
 function App() {
   return (
-    <div className="App min-h-screen bg-slate-50">
+    <div className="App min-h-screen bg-slate-50 dark:bg-black dark:text-white">
       <Header />
       <Navigation />
       <Routes>
